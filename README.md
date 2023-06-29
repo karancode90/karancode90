@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm karan, a  full-stack developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm karan, a  Frontend web developer 👨‍💻 working 🚀</div>  
   
 
 - 🌱 I’m currently learning Javascript and ReactJs.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Frontend development and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
